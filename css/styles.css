@@ -1,4 +1,44 @@
 .column {
-  width: 25%;
+  width: 24%;
   float: left;
+}
+
+body {
+  font-family: sans-serif;
+  color: #5a5255;
+  background-color: #f9f9f0;
+}
+
+h1 {
+  color: #1b85b8;
+  text-align: center;
+  font-size: 40px;
+}
+
+h2 {
+  color: salmon;
+  text-align: center;
+  font-size: 30px;
+  font-family: cursive;
+}
+
+h3 {
+  color: #559e83;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 75%;
+}
+
+.column p {
+  color: #ae5a41;
+  font-style: italic;
+}
+
+footer {
+  text-align: center;
+  padding-top: 100px;
 }
